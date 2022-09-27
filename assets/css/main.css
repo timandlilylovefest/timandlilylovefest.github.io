@@ -2178,7 +2178,7 @@ input, select, textarea {
 		position: relative;
 		background-image: url("../../images/mohonk_crop.jpg");
 		background-size: cover;
-		background-position: center center;
+		background-position: center top;
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
