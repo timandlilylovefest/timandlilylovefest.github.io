@@ -1574,6 +1574,10 @@ input, select, textarea {
 					width: 33.33333%;
 				}
 
+				.row > .col-4-side {
+					display: none;
+				}
+
 				.row > .off-4-mobile {
 					margin-left: 33.33333%;
 				}
