@@ -157,6 +157,10 @@ input, select, textarea {
 		transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 	}
 
+	a.noline {
+		border-bottom-color: transparent;
+	}
+
 		a:hover {
 			color: #db7f50;
 			border-bottom-color: transparent;
