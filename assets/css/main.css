@@ -2197,9 +2197,9 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/mohonk_crop.jpg");
+		background-image: url("../../images/toss_crop.png");
 		background-size: cover;
-		background-position: 50% 2%;
+		background-position: 50% 32%;
 		background-attachment: scroll;
 		color: #fff;
 		text-align: center;
